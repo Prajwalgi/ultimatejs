@@ -20,23 +20,16 @@
 - Event
 ### Built-in JavaScript Objects: Root (Root Properties
 - Root Methods)
-- Array (Array Description
-- Array Properties
+- Array (Array Description, Array Properties
 - Array Methods)
 - Boolean (Boolean Description)
-- Data (Data Description
-- Data Methods)
+- Data (Data Description, Data Methods)
 - Function (Function Description)
 - Image (Image Description
 - Image Properties)
-- Math (Math Description
-- Math Properties
-- Math Methods)
-- Number (Number Description
-- Number Properties)
-- String (String Description
-- String Properties
-- String Methods)
+- Math (Math Description, Math Properties, Math Methods)
+- Number (Number Description, Number Properties)
+- String (String Description, String Properties, String Methods)
 
 ## Review
 ### Review
