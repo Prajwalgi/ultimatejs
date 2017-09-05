@@ -420,17 +420,17 @@ The shorthand assignment operator += can also be used to concatenate strings. Fo
 
 Operator  |  Examples
 ---|---
-assignment  |  ` += -= *= /= %= <<= >>= >>>= &= ^= &#124;= `
-conditional  |  `?:`
-logical-or  |  ` &#124;&#124; `
-logical-and  |  `&&`
-bitwise-or  |  ` &#124; `
-bitwise-xor  |  `^`
-bitwise-and  |  `&`
-equality  |  `== !=`
-relational  |  `< <= > >=`
-bitwise shift  |  `<< >> >>>`
-addition/subtraction  |  `+ -`
-multiply/divide  |  `* / %`
-negation/increment  |  `! ~ - ++ -- typeof void`
-call, member  |  `() [] .`
+assignment  |  <code>+= -= *= /= %= <<= >>= >>>= &= ^= &#124;=</code>
+conditional  |  <code>?:<code>
+logical-or  |  <code> &#124;&#124; </code>
+logical-and  |  <code>&&</code>
+bitwise-or  |  <code>&#124;</code>
+bitwise-xor  |  <code>^</code>
+bitwise-and  |  <code>&</code>
+equality  |  <code>== !=</code>
+relational  |  <code>< <= > >=</code>
+bitwise shift  |  <code><< >> >>></code>
+addition/subtraction  |  <code>+ -</code>
+multiply/divide  |  <code>* / %</code>
+negation/increment  |  <code>! ~ - ++ -- typeof void</code>
+call, member  |  <code>() [] .</code>
