@@ -420,11 +420,11 @@ The shorthand assignment operator += can also be used to concatenate strings. Fo
 
 Operator  |  Examples
 ---|---
-assignment  |  ` += -= *= /= %= <<= >>= >>>= &= ^= |= `
+assignment  |  ` += -= *= /= %= <<= >>= >>>= &= ^= &#124;= `
 conditional  |  `?:`
-logical-or  |  ` || `
+logical-or  |  ` &#124;&#124; `
 logical-and  |  `&&`
-bitwise-or  |  ` | `
+bitwise-or  |  ` &#124; `
 bitwise-xor  |  `^`
 bitwise-and  |  `&`
 equality  |  `== !=`
